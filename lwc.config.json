@@ -1,0 +1,38 @@
+{
+  "modules": [
+    {
+      "npm": "@vlocity-cme/sdk"
+    },
+    {
+      "npm": "@vlocity-cme/resources"
+    },
+    {
+      "npm": "@vlocity-cme/platform"
+    },
+    {
+      "npm": "@vlocity-cme/core"
+    },
+    {
+      "npm": "@vlocity-cme/components"
+    },
+    {
+      "npm": "@vlocity-cme/cards"
+    },
+    {
+      "npm": "@vlocity-cme/cards-vertical"
+    },
+    {
+      "npm": "@vlocity-cme/calc"
+    },
+    {
+      "npm": "@vlocity-cme/rm"
+    },
+    {
+      "npm": "@vlocity-cme/oui"
+    },
+    {
+      "dir": "src/modules"
+    }
+  ],
+  "expose": []
+}
